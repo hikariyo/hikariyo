@@ -6,7 +6,7 @@ Likes to do interesting and useful things.
 
 ## Blogs
 
-https://blog.kifuan.me
+https://blog.hikariyo.net
 
 ## Skills
 

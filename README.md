@@ -14,6 +14,8 @@ C++(OI), Python, Node.js and Vue.js.
 
 ## States
 
+Currently focusing on schoolwork.
+
 <!--START_SECTION:waka-->
 
 ```txt

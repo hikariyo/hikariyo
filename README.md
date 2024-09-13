@@ -19,11 +19,7 @@ Currently focusing on schoolwork.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   46 mins         ████████████████████████▓   99.04 %
-C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-C++      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -19,7 +19,7 @@ Currently focusing on schoolwork.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++   1 hr 1 min      █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

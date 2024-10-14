@@ -19,7 +19,9 @@ Currently focusing on schoolwork.
 <!--START_SECTION:waka-->
 
 ```txt
-C++   1 hr 12 mins    █████████████████████████   100.00 %
+C++     3 hrs 33 mins   █████████████████████████   99.66 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->

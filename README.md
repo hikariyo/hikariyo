@@ -19,9 +19,9 @@ Currently focusing on schoolwork.
 <!--START_SECTION:waka-->
 
 ```txt
-Typst    40 mins         ██████████▓░░░░░░░░░░░░░░   42.52 %
-C++      37 mins         ██████████░░░░░░░░░░░░░░░   39.62 %
-Python   16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
+Typst    40 mins         ███████████████▒░░░░░░░░░   61.16 %
+Python   16 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
+C++      8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
 ```
 
 <!--END_SECTION:waka-->

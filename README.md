@@ -2,7 +2,7 @@
 
 I'm a student at East China Normal University, passionate about competitive programming.
 
-[Codeforces](https://codeforces.com/profile/hikariyo) | [Blogs(zh)](https://blog.hikariyo.net)
+[Blogs(zh)](https://blog.hikariyo.net) | [Codeforces](https://codeforces.com/profile/hikariyo)
 
 ## Languages
 

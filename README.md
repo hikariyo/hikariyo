@@ -1,20 +1,18 @@
 ## Welcome! 👋
 
-Senior high school student from China.
+I'm a student at East China Normal University, passionate about competitive programming.
 
-Likes to do interesting and useful things.
+Codeforces: [hikariyo](https://codeforces.com/profile/hikariyo)
 
 ## Blogs
 
 https://blog.hikariyo.net
 
-## Skills
+## Languages
 
-C++(OI), Python, Node.js and Vue.js.
+C++(Competitive Programming), Python, and Rust(currently learning).
 
 ## States
-
-Currently focusing on schoolwork.
 
 <!--START_SECTION:waka-->
 

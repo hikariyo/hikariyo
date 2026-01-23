@@ -13,9 +13,8 @@ C++(competitive programming), Python, and Rust(currently learning).
 <!--START_SECTION:waka-->
 
 ```txt
-C++          5 hrs 48 mins   ███████████████████░░░░░░   76.24 %
-TeX          1 hr 21 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
-TypeScript   27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+C++          5 hrs 32 mins   ███████████████████████░░   92.42 %
+TypeScript   27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
 ```
 
 <!--END_SECTION:waka-->
